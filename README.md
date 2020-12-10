@@ -2,7 +2,7 @@
 
 twitter clone page
 
-![alt text](https://hizliresim.com/XW5j2E.png "Title") 
+![alt text](https://i.hizliresim.com/XW5j2E.png "Title") 
 
 
 
